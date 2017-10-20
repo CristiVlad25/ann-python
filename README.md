@@ -4,4 +4,4 @@
 
 >pip3 install neurolab
 
-The accompanying video tutorials are [here]().
+The accompanying video tutorials are [here](https://www.youtube.com/playlist?list=PLonlF40eS6nyYmALgj2sFMFMJF0nHwJ0M).
